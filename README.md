@@ -1,3 +1,3 @@
 # Alfred Bot 
 
-This project was to create a Bot that would provide certain responses based on conditions the user provided
+In this project I created a Bot that based on user input would provide certain responses to the user
